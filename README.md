@@ -30,6 +30,7 @@ AWS re/Start isn't just a certification path; it’s an immersive deep dive that
 
 ## Badges and Certification
 
+![alt text](Certification/aws-cloud-quest-cloud-practitioner-training-badge.png)
 
 
 ## Skills, Technologies, and The Lessons Learned
