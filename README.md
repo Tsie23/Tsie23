@@ -28,7 +28,7 @@ AWS re/Start isn't just a certification path; it’s an immersive deep dive that
 * **Databases:** I gained an introduction to the landscape of AWS databases, learning that data isn't a one-size-fits-all problem, but that services like RDS (relational) and DynamoDB (NoSQL) each have their perfect use case.
 * **Security Services:** Crucially, I learned about foundational security, navigating Security Groups, network Subnets, and the multi-layered security model that underpins every cloud deployment.
 
-## Badges and Certificates
+## Badges and Certification
 
 
 
