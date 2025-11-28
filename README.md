@@ -30,10 +30,12 @@ AWS re/Start isn't just a certification path; it’s an immersive deep dive that
 
 ## Badges and Certification
 
-<img src="Certification/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest Cloud Practitioner badge" style="width:300px; height:auto;" />
-<img src="Certification/AI%20Practitioner%20Learning%20Plan.png" alt="AI Practitioner Learning Plan" style="width:300px; height:auto;" />
-<img src="Certification/Generative%20AI%20for%20Decision%20Makers.png" alt="Generative AI for Decision Makers" style="width:300px; height:auto;" />
-<img src="Certification/Introduction%20to%20AWS%20Identity%20and%20Access%20Management(IAM).png" alt="Introduction to AWS IAM" style="width:300px; height:auto;" />
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+  <img src="Certification/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest Cloud Practitioner badge" style="width:200px; height:auto;" />
+  <img src="Certification/AI%20Practitioner%20Learning%20Plan.png" alt="AI Practitioner Learning Plan" style="width:200px; height:auto;" />
+  <img src="Certification/Generative%20AI%20for%20Decision%20Makers.png" alt="Generative AI for Decision Makers" style="width:200px; height:auto;" />
+  <img src="Certification/Introduction%20to%20AWS%20Identity%20and%20Access%20Management(IAM).png" alt="Introduction to AWS IAM" style="width:200px; height:auto;" />
+</div>
 
 
 ## Skills, Technologies, and The Lessons Learned
