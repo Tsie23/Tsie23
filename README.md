@@ -35,6 +35,10 @@ AWS re/Start isn't just a certification path; it’s an immersive deep dive that
   <img src="Certification/AI%20Practitioner%20Learning%20Plan.png" alt="AI Practitioner Learning Plan" style="width:200px; height:auto;" />
   <img src="Certification/Generative%20AI%20for%20Decision%20Makers.png" alt="Generative AI for Decision Makers" style="width:200px; height:auto;" />
   <img src="Certification/Introduction%20to%20AWS%20Identity%20and%20Access%20Management(IAM).png" alt="Introduction to AWS IAM" style="width:200px; height:auto;" />
+  <img src="Certification/AWS SimuLearn- Core Security Concepts.png" alt="AWS SimuLearn: Core Security Concepts" style="width:200px; height:auto;" />
+  <img src="Certification/AWS SimuLearn- Databases in Practice.png" alt="AWS SimuLearn: Databases in Practice" style="width:200px; height:auto;" />
+  <img src="Certification/AWS SimuLearn- File Systems in the Cloud.png" alt="AWS SimuLearn: File Systems in the Cloud" style="width:200px; height:auto;" />
+  <img src="Certification/AWS SimuLearn- Networking Concepts.png" alt="AWS SimuLearn: Networking Concepts" style="width:200px; height:auto;" />
 </div>
 
 
