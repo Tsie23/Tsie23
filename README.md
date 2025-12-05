@@ -4,7 +4,7 @@ Hello, and welcome! I’m **Kebaabetswe A. Sennelo**, and if you’re reading th
 
 My professional foundation was built in the demanding world of customer service, culminating as a Senior Escalations Consultant. This role was the ultimate proving ground for reputation management, systematic problem solving, and critical service delivery skills that translate directly to building reliable, high-performing systems. I learned that success isn't just about functionality; it's about trust, resilience, and reliability.
 
-My passions have always centered around creation and protection. For years, I found creative expression in digital aesthetics, but beneath that surface interest, a deeper curiosity always simmered—the fascination with what makes systems tick, how they communicate, and critically, how to keep them safe.
+My passions have always centered around creation and protection. For years, I found creative expression in digital aesthetics, but beneath that surface interest, a deeper curiosity always simmered; the fascination with what makes systems tick, how they communicate, and critically, how to keep them safe.
 
 My ambition is clear: to evolve from an emerging Backend Developer focused on the logic, data, and APIs powering applications into a seasoned Cybersecurity Specialist the professional who ensures those systems are impermeable, reliable, and trusted. I see the cloud as the essential training ground for mastering both architecture and defense.
 
@@ -22,16 +22,20 @@ Earning a place in this competitive scholarship and successfully completing the 
 AWS re/Start isn't just a certification path; it’s an immersive deep dive that has transformed my understanding of IT infrastructure. Suddenly, I wasn't just reading about the cloud; I was operating in it, and gaining hands-on expertise in the foundational infrastructure that powers modern applications:
 
 * **Cloud Compute & EC2:** Learning to provision and manage EC2 instances taught me the fundamentals of computing resources, understanding how to select the right instance type for the job, and the concept of elasticity.
-* **Networking & VPC:** The labyrinthine world of networking became navigable by understanding the Virtual Private Cloud (VPC), making the internet feel less like magic and more like an **organized, secure community**.
-* **Storage & S3:** I discovered the power of AWS S3—not just for backing up files, but as a powerful platform for hosting high-performance, static websites, a direct evolution of my initial web design interest.
+* **Networking & VPC:** The labyrinthine world of networking became navigable by understanding the Virtual Private Cloud (VPC), making the internet feel less like magic and more like an *organized, secure community*.
+* **Storage & S3:** I discovered the power of AWS S3, not just for backing up files, but as a powerful platform for hosting high-performance, static websites, a direct evolution of my initial web design interest.
 * **Linux & Bash:** Mastering Linux and the Bash terminal provided a vital technical lingua franca, empowering me to manage systems directly and automate tasks, moving beyond graphical interfaces into the heart of the machine.
 * **Databases:** I gained an introduction to the landscape of AWS databases, learning that data isn't a one-size-fits-all problem, but that services like RDS (relational) and DynamoDB (NoSQL) each have their perfect use case.
 * **Security Services:** Crucially, I learned about foundational security, navigating Security Groups, network Subnets, and the multi-layered security model that underpins every cloud deployment.
 
-## Badges and Certification
+## Badges 
 
 <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
   <img src="Certification/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest Cloud Practitioner badge" style="width:200px; height:auto;" />
+
+
+## Certificates
+
   <img src="Certification/AI%20Practitioner%20Learning%20Plan.png" alt="AI Practitioner Learning Plan" style="width:200px; height:auto;" />
   <img src="Certification/Generative%20AI%20for%20Decision%20Makers.png" alt="Generative AI for Decision Makers" style="width:200px; height:auto;" />
   <img src="Certification/Introduction%20to%20AWS%20Identity%20and%20Access%20Management(IAM).png" alt="Introduction to AWS IAM" style="width:200px; height:auto;" />
@@ -44,13 +48,13 @@ AWS re/Start isn't just a certification path; it’s an immersive deep dive that
 
 ## Skills, Technologies, and The Lessons Learned
 
-The technical skills acquired are the currency of this industry, but the lessons I found most valuable are centered around how we apply that knowledge in a professional environment—a mindset directly informed by my background in high-level service.
+The technical skills acquired are the currency of this industry, but the lessons I found most valuable are centered around how we apply that knowledge in a professional environment; a mindset directly informed by my background in high-level service.
 
 **Hard Skills & Technologies:**
 
 * **Cloud Fundamentals:** AWS Core Services (EC2, VPC, S3, IAM, CloudFront, Route 53, CloudWatch).
-* **Backend & Development:** **Python, JavaScript, HTML, CSS, MERN Stack (MongoDB, Express, React, Node.js)**.
-* **System Administration:** **Linux and Bash scripting**.
+* **Backend & Development:** Python, JavaScript, HTML, CSS, MERN Stack (MongoDB, Express, React, Node.js).
+* **System Administration:** Linux and Bash scripting.
 * **Networking:** Subnetting, CIDR, Security Groups, and NACLs.
 * **Database Management:** Introduction to Relational vs. NoSQL (DynamoDB).
 * **Web Services:** Static website hosting and CDN implementation.
