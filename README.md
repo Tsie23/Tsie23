@@ -62,7 +62,7 @@ The technical skills acquired are the currency of this industry, but the lessons
 **Soft Skills & Professional Insight:**
 
 * **Critical Service Delivery (Reputation Management):** My experience as a Senior Escalations Consultant instilled a deep understanding of maintaining client trust and system reliability. This directly applies to my backend and security aspirations: ensuring the services I build are **reliable, responsive, and trustworthy** is the ultimate measure of success.
-* **Systematic Problem Solving:** Moving from "Is it working?" to "**What exactly is failing, and why?**" using logs, monitoring, and methodical troubleshooting processes, honed over years of resolving complex customer issues.
+* **Systematic Problem Solving:** Moving from "Is it working?" to "*What exactly is failing, and why?*" using logs, monitoring, and methodical troubleshooting processes, honed over years of resolving complex customer issues.
 * **Collaboration and Communication:** Learning to articulate complex technical challenges clearly to both technical and non-technical peers in a project setting.
 
 ## Group Project 1: Static Site with Serverless Backend
