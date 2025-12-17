@@ -77,6 +77,8 @@ Our team’s objective was to host a modern, secure website. My primary responsi
 
 This project was a revelation, showing me the real-world application of the modules we studied and cementing my passion for building out the reliable, scalable systems that power the digital landscape.
 
+## Group Project 2: 3D Architecture Design Document for E-Commerce store
+
 ## Conclusion
 
 This document marks a crucial milestone in a dedicated career in technology. The AWS re/Start program, built upon my solid self-taught foundation in MERN Stack and Python, has equipped me not only with invaluable skills like working with VPCs and DynamoDB but, more importantly, with a robust methodology for approaching technical challenges and a deep appreciation for service delivery.
@@ -86,5 +88,5 @@ The journey from a high-level Service Consultant to a certified Cloud Practition
 I am eager to contribute my unique blend of technical expertise and high-pressure service experience to a team focused on building secure and reliable solutions. I’m ready for the next challenge, eager to learn, and excited to build.
 
 ## Connect With Me
-LinkedIn Profile: www.linkedin.com/in/kebaabetswe-sennelo-28226130
+LinkedIn Profile: www.linkedin.com/in/kebaabetswe-a-sennelo-28226130
 Contact Details: ka.sennelo@gmail.com
