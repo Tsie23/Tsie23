@@ -36,12 +36,6 @@ AWS re/Start isn't just a certification path; it’s an immersive deep dive that
 </p>
 
 
-  <img src="Certification/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest Cloud Practitioner badge" style="width:200px; height:auto;" />
-
-  <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
-  <img src="Certification/aws-re-start-graduate.png" alt="AWS re/Start Graduate badge" style="width:200px; height:auto;" />
-
-
 ## Certificates
 
 <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
