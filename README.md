@@ -28,16 +28,24 @@ AWS re/Start isn't just a certification path; it’s an immersive deep dive that
 * **Databases:** I gained an introduction to the landscape of AWS databases, learning that data isn't a one-size-fits-all problem, but that services like RDS (relational) and DynamoDB (NoSQL) each have their perfect use case.
 * **Security Services:** Crucially, I learned about foundational security, navigating Security Groups, network Subnets, and the multi-layered security model that underpins every cloud deployment.
 
-## Badges
+## Badges 
 
 <p align="center">
   <img src="Certification/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest Cloud Practitioner badge" style="width:200px; height:auto; margin-right:12px;" />
   <img src="Certification/aws-re-start-graduate.png" alt="AWS re/Start Graduate badge" style="width:200px; height:auto;" />
 </p>
 
+<div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+  <img src="Certification/aws-cloud-quest-cloud-practitioner-training-badge.png" alt="AWS Cloud Quest Cloud Practitioner badge" style="width:200px; height:auto;" />
+
+  <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+  <img src="Certification/aws-re-start-graduate.png" alt="AWS re/Start Graduate badge" style="width:200px; height:auto;" />
+
+
 ## Certificates
 
   <img src="Certification/PLP Full-Stack Development MERN Stack certificate.png" alt="PLP Africa Full-Stack MERN Graduate Certificate" style="width:200px; height:auto;" />
+  
   <img src="Certification/AI%20Practitioner%20Learning%20Plan.png" alt="AI Practitioner Learning Plan" style="width:200px; height:auto;" />
   <img src="Certification/Generative%20AI%20for%20Decision%20Makers.png" alt="Generative AI for Decision Makers" style="width:200px; height:auto;" />
   <img src="Certification/Introduction%20to%20AWS%20Identity%20and%20Access%20Management(IAM).png" alt="Introduction to AWS IAM" style="width:200px; height:auto;" />
